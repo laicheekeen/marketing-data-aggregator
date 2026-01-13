@@ -51,7 +51,7 @@ class DatabaseConfig:
             "var_name": "df_transactions"
         },
         {
-            "host": "172.16.5.75",
+            "host": "172.16.x.xx",
             "database": "auth_logs_db",
             "query": """
                 SELECT
